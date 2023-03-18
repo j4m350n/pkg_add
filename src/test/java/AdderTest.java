@@ -1,3 +1,4 @@
+import com.github.j4m350n.Adder;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
